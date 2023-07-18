@@ -1,0 +1,28 @@
+.app-hero{
+    width: 100%;
+    height: 600px;
+    background-image: url("../../assets/kenny-eliason-kbcqR60zWeo-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    /* add bluish hue */
+    /* filter: sepia(100%) hue-rotate(190deg) saturate(70%); */
+    /* Add blur and shade effect */
+    /* filter: blur(2px); */
+    /* -webkit-filter: blur(2px); */
+    /* filter: brightness(80%); */
+    /* border: 3px solid green; */
+    position: relative;
+    align-items: center;
+}
+.row{
+    position: relative;
+    align-items: center;
+    height:inherit;
+}
+
+h1{
+    /* background-color: #0e335f; */
+    padding: 5px;
+}
