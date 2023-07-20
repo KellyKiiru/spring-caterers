@@ -1,6 +1,6 @@
 .app-hero{
     width: 100%;
-    height: 800px;
+    height: 700px;
     background-image: url("../../assets/pexels-matheus-bertelli-17023041.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@
     position: relative;
     align-items: center;
     /* border: 1px solid green; */
-    margin-top: -57px;
+    margin-top: -100px;
 }
 
 .row{
@@ -18,6 +18,9 @@
     height:inherit;
 }
 
-h1{
-    padding: 5px;
+h1{    
+    font-size: 100px;
+    /* font-weight: bold; */
+    letter-spacing: 2px;
+    text-decoration: underline;
 }
