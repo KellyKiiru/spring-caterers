@@ -35,6 +35,13 @@
     src: url('assets/fonts/Tangerine/Tangerine-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Mynerve';
+    src: url('assets/fonts/Mynerve/Mynerve-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 *{
 font-family: 'AlexBrushRegular';
 }    
